@@ -11,7 +11,7 @@ public class test {
         char ch = '%';
         System.out.println(ch);
 
-        int sigma = 23;
+        int sigma = 277;
         System.out.println(sigma);
     }
 }
